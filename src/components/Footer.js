@@ -8,7 +8,7 @@ const Footer = () => (
     borderTop="1px"
     borderColor="gray.400"
   >
-    2021 Realtor, Inc
+    2023 Realtor, Inc
   </Box>
 )
 
